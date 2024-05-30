@@ -1,5 +1,5 @@
 {
-  "name": "react-native-public-ip",
+  "name": "react-native-ip-address",
   "version": "1.0.0",
   "description": "A React Native library to fetch the public IP address using https://api.ipify.org",
   "main": "index.js",
