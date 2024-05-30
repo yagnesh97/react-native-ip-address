@@ -1,0 +1,20 @@
+{
+  "name": "react-native-public-ip",
+  "version": "1.0.0",
+  "description": "A React Native library to fetch the public IP address using https://api.ipify.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-native-fetch-ip.git"
+  },
+  "keywords": [
+    "react-native",
+    "ip address",
+    "ipify"
+  ],
+  "author": "Yagnesh Vakharia <https://github.com/yagnesh97>",
+  "license": "MIT"
+}
