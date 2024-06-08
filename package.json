@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yagnesh97/react-native-ip-address.git"
+    "url": "git+https://github.com/yagnesh97/react-native-ip-address.git"
   },
   "keywords": [
     "react-native",
