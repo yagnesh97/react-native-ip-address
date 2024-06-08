@@ -1,6 +1,6 @@
 {
   "name": "react-native-ip-address",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A React Native library to fetch the public IP address using https://api.ipify.org",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
